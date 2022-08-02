@@ -1,7 +1,7 @@
 # Interactive Fashion Sales Dashboard
 ## MS Excel Dashboard
 
-![](https://github.com/Kens3i/ExcelSalesDashboard/blob/main/ExcelSalesDashboard.gif)
+![](https://github.com/Kens3i/ExcelSalesDashboard/blob/main/Display%20Gif.gif?raw=true)
 
 ## Table of Contents
 

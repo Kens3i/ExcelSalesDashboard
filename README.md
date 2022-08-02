@@ -10,9 +10,8 @@
 2.  [Motivation](https://github.com/Kens3i/ExcelSalesDashboard#Motivation)
 3.  [Workbook-Layout](https://github.com/Kens3i/ExcelSalesDashboard#Workbook-Layout)
 4.  [Workflow](https://github.com/Kens3i/ExcelSalesDashboard#Workflow)
-5.  [Screenshots](https://github.com/Kens3i/ExcelSalesDashboard#Screesnshots)
-6.  [Challenges I Faced](https://github.com/Kens3i/ExcelSalesDashboard#Challenges-I-Faced)
-7.  [FAQs](https://github.com/Kens3i/ExcelSalesDashboard#FAQs)
+5.  [Challenges I Faced](https://github.com/Kens3i/ExcelSalesDashboard#Challenges-I-Faced)
+6.  [FAQs](https://github.com/Kens3i/ExcelSalesDashboard#FAQs)
 
 
 ## Overview

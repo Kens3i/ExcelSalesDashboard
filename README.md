@@ -1,4 +1,5 @@
-# Interactive Fashion Sales Dashboard
+# INTERACTIVE FASHION SALES DASHBOARD
+
 ## MS Excel Dashboard Output
 
 ![](https://github.com/Kens3i/ExcelSalesDashboard/blob/main/Display%20Gif.gif?raw=true)

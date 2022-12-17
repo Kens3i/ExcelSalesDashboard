@@ -2,7 +2,7 @@
 
 ## MS Excel Dashboard Output
 
-<a href="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE"><img src="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE" style="max-width: 100%; height: auto" title="Click To View" /></a>
+![](https://media3.giphy.com/media/3Iad2GjU3H1bdmJAv4/giphy.gif?cid=790b76116b09cac9ea7dff5b760dafbe57e705799864c25b&rid=giphy.gif&ct=g)
 
 ## Table of Contents
 

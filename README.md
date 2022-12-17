@@ -2,7 +2,7 @@
 
 ## MS Excel Dashboard Output
 
-<a href="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE"><img src="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE"><img src="https://drive.google.com/uc?export=view&id=1upak9xcCAhmvAra0cW5ft7PSy_HjgLoE" title="Click To View" /></a>
 
 ## Table of Contents
 

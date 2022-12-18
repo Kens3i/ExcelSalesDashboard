@@ -2,7 +2,7 @@
 
 ## MS Excel Dashboard Output
 
-![](https://media3.giphy.com/media/3Iad2GjU3H1bdmJAv4/giphy.gif?cid=790b76116b09cac9ea7dff5b760dafbe57e705799864c25b&rid=giphy.gif&ct=g)
+![](https://media.giphy.com/media/p6o1KQMYfLlupbZwBQ/giphy.gif)
 
 ## Table of Contents
 
